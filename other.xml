@@ -47,4 +47,16 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://codex.cs.bham.ac.uk/svn/projects/2015/pxa303/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://codex.cs.bham.ac.uk/svn/projects/2015/pxa303/" />
+      </list>
+    </option>
+  </component>
 </application>
